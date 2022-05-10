@@ -8,7 +8,7 @@ Files:
 
 *Important notes*:
 	- One must download version 0.27.0 of ML-Agents from https://github.com/Unity-Technologies/ml-agents/releases/tag/release_18 into the ml-agents-custom directory, and replace ml-agents-custom/ml-agents/mlagents/ppo/optimizer_torch.py with our custom version, then run `ml-agents-custom/ml-agents/setup.py install`.
-	- We assume one is running these tools on Linux (e.g. on the Department's Batch Compute System).
+	- We assume one is running these tools on Linux.
 	- One must run the scripts in a Python virtualenv with the dependencies given in requirements.txt.
 	- Usage assumes there is a Linux Server Build of the Unity environment available in the build directory.
 	- Examples assume the files are within the ~/diss/ffa-ppo directory, and ml-agents-custom is in ~/diss.
