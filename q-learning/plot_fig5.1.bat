@@ -1,0 +1,1 @@
+python plot.py "q-learning-results/nobs_nring_decay/qlearner_metrics.pkl&Epsilon Decay" "q-learning-results/nobs_nring_nodecay/qlearner_metrics.pkl&No Epsilon Decay" 500 2000

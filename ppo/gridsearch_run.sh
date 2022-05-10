@@ -1,0 +1,1 @@
+python3 gridsearch_ppo.py 'python3 -m mlagents.trainers.learn' envconfigs/envconfig_fixedgoals learn-base 8300 vary-0nearbycars-fixedgoals-7ag environment_parameters._obsNearbyCarsCount=i[0] environment_parameters.try=i[1,2,3]

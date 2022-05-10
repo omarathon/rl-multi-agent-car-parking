@@ -1,0 +1,132 @@
+behaviors:
+  CarBehaviour:
+    trainer_type: ppo
+    hyperparameters:
+      batch_size: 32
+      buffer_size: 4096
+      learning_rate: 0.0001
+      beta: 0.002
+      epsilon: 0.25
+      lambd: 0.925
+      num_epoch: 10
+      learning_rate_schedule: linear
+    network_settings:
+      normalize: false
+      hidden_units: 256
+      num_layers: 3
+      vis_encode_type: simple
+    reward_signals:
+      extrinsic:
+        gamma: 0.999
+        strength: 1.0
+
+    keep_checkpoints: 1
+    max_steps: 16000000
+    time_horizon: 128
+    summary_freq: 10000
+
+
+environment_parameters:
+  # granularity
+  _positionGranularity: 16
+  _velocityGranularity: 4
+  _thetaGranularity: 24
+
+  rewReachGoal: 1
+  rewCrash: 1
+  
+  _maxVelocityMagnitude: 4
+  _minVelocityMagnitude: 2
+  _maxDeltaVMagnitude: 2
+  _minDeltaVMagnitude: 2
+  _maxDeltaThetaMagnitude: 3
+
+  _numAgents: 7
+  _normalizeObs: 1
+  _numParkedCars: 16
+  _obsDist: 1
+  _obsXY: 0
+  _obsAngle: 1
+  _obsRings: 1
+  _debugObs: 0
+  _ringMaxNumObjTrack: 1
+  _ringNumPrevObs: 0
+  _ringOnlyWall: 1
+  _rd0: 11
+  _obsNearbyCars: 1
+  _obsNearbyCarsCount: 1
+  _obsNearbyCarsDiameter: 300
+  _obsGlobalAngle: 0
+  _obsGoalDeltaPose: 1
+  spawnCloseRatio: 0.2
+  _spawnCloseDist: 10
+  carSpawnMinDistance: 210
+  _maxSteps: 200
+
+  _obsNearbyCarsParked: 0
+  _obsNearbyCarsGoal: 1
+
+  rewFinalPoseSum: 0
+  rewDeltaThetaSum: 0.05
+  _obsNearbyCarsVelocity: 1
+  _obsNearbyCarsPoseHalf: 0
+
+  _visualiseNearbyCars: 0
+  rewCrashVelocitySum: 0
+  spawnCrashRatio: 0.2
+  spawnCrashTargetAgentMinDist: 210
+
+  _rewNearbyCarsDistNumCars: 0
+  rewNearbyCarsDistSum: 0
+
+  _rewNearbyCarsMoveTowards: 0
+  rewNearbyCarsMoveTowardsSum: 0
+
+  _obsTimestep: 0
+  _rewHalt: 0
+
+  rewDenseDeltaGoalPoseSum: 0
+  _obsNearbyCarsVelocityZeroStaticCar: 1
+
+  _numParkedCarsSecond: -1
+
+  # DYNAMIC GOAL SETTINGS
+
+  _dynamicGoals: 0 # NO DYNAMIC GOALS
+  _obsNearbyParkingSpotsCount: 1
+
+  # change goal rews
+  rewDeltaGoalContinueExp: 0
+  rewDeltaGoalStopExp: 0
+  rewDeltaGoalContinueGoal: 0
+  rewDeltaGoalDiffGoal: 0
+  _rewDeltaGoalStopGoal: -1
+  rewDeltaGoalContinueGoalBetterOtherAgent: 0
+
+  rewDeltaGoalWeight: 1
+
+  # END DYNAMIC GOAL SETTINGS
+
+  rewTimeSum: 0.2
+  rewReverseSum: 0.1
+
+  rewDistSum: 0.15
+
+  rewHaltSum: 0
+
+  _obsParkingSpotClosestAgent: 0
+  _obsParkingSpotClosestGoalAgent: 0
+
+  _punishBetterOtherAgentLocal: 0
+  _punishBetterOtherGoalAgent: 0
+
+  _numStepsTrain: 12800000
+  carScaleTrain: 1
+  _rewDeltaThetaVelMult: 0
+
+  _obsNearbyCarsParkedCount: -1
+  _obsNearbyCarsAgentCount: -1
+
+  rewFinalVelocitySum: 0
+
+  try: 0
