@@ -4,6 +4,8 @@ Directories:
 	q-learning - scripts related to training Q-Learning and its analysis
 	results - results
 
+Files:
+	dissertation.pdf - PDF of the dissertation report
 
 Environment notes:
 	- MultiAgentCarParkingEnvironment comes with a neural network model attached to the CarAgents. Remove the neural network attached to the Car prefab before building if intending to train (and also set the appropriate initMode of the EnvironmentManager).
@@ -18,4 +20,4 @@ Required software:
 	- CSV file reader e.g. Excel, etc.
 
 
-General note: Development was done on Windows, with the RL training run on Linux on the department's batch compute system. We have not tested the implementations on other OSs.
+General note: Development was done on Windows, with the RL training run on Linux. We have not tested the implementations on other OSs.
