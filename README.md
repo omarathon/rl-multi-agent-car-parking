@@ -1,4 +1,6 @@
-# Dissertation titled Multi-Agent Car Parking using Reinforcement Learning
+# Multi-Agent Car Parking using Reinforcement Learning
+
+Dissertation by Omar Tanner.
 
 <p align="center">
   <img src="env-demo.gif" alt="animated" />
