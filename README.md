@@ -1,7 +1,8 @@
 ## Dissertation titled Multi-Agent Car Parking using Reinforcement Learning
 
-
-![Demo](https://github.com/omarathon/rl-multi-agent-car-parking/blob/main/env-demo.gif)
+<p align="center">
+  <img src="[demo.gif](https://github.com/omarathon/rl-multi-agent-car-parking/blob/main/env-demo.gif)" alt="animated" />
+</p>
 
 ### Directories
 * MultiAgentCarParkingEnvironment - Unity project containing the implementation of the MDP (environment)
