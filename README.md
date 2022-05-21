@@ -1,4 +1,5 @@
-## Dissertation titled Multi-Agent Car Parking using Reinforcement Learning.
+## Dissertation titled Multi-Agent Car Parking using Reinforcement Learning
+
 
 ![Demo](https://github.com/omarathon/rl-multi-agent-car-parking/blob/main/env-demo.gif)
 
