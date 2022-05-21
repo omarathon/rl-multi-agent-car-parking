@@ -1,4 +1,5 @@
-Dissertation titled Multi-Agent Car Parking using Reinforcement Learning, by Omar Tanner.
+Dissertation titled Multi-Agent Car Parking using Reinforcement Learning.
+
 
 Directories:
 	MultiAgentCarParkingEnvironment - Unity project containing the implementation of the MDP (environment)
@@ -8,6 +9,7 @@ Directories:
 
 Files:
 	dissertation.pdf - PDF of the dissertation report
+	
 
 Environment notes:
 	- MultiAgentCarParkingEnvironment comes with a neural network model attached to the CarAgents. Remove the neural network attached to the Car prefab before building if intending to train (and also set the appropriate initMode of the EnvironmentManager).
