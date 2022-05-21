@@ -1,11 +1,11 @@
 # Multi-Agent Car Parking using Reinforcement Learning
 
 Dissertation by Omar Tanner.
-
+<br/>
 <p align="center">
   <img src="env-demo.gif" alt="animated" />
 </p>
-
+<br/>
 ## Directories
 * MultiAgentCarParkingEnvironment - Unity project containing the implementation of the MDP (environment)
 * ppo - scripts related to training PPO and its analysis
