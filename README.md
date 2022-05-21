@@ -6,7 +6,7 @@ Dissertation by Omar Tanner.
 <p align="center">
   <img src="env-demo.gif" alt="animated" />
 </p>
-<br/>
+
 
 ## Directories
 * MultiAgentCarParkingEnvironment - Unity project containing the implementation of the MDP (environment)
