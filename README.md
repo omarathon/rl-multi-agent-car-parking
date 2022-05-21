@@ -1,7 +1,7 @@
 ## Dissertation titled Multi-Agent Car Parking using Reinforcement Learning
 
 <p align="center">
-  <img src="[demo.gif](https://github.com/omarathon/rl-multi-agent-car-parking/blob/main/env-demo.gif)" alt="animated" />
+  <img src="env-demo.gif" alt="animated" />
 </p>
 
 ### Directories
