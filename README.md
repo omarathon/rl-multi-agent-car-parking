@@ -4,7 +4,7 @@ Dissertation by Omar Tanner ([pdf](dissertation.pdf)).
 
 <br/>
 <p align="center">
-  <img src="env-demo.gif" alt="animated" />
+  <img src="example.gif" alt="animated" />
 </p>
 
 
@@ -34,5 +34,7 @@ Dissertation by Omar Tanner ([pdf](dissertation.pdf)).
 Development was done on Windows, with the RL training run on Linux. We have not tested the implementations on other OSs.
 
 ## Demo
+
+Below shows an example trained model with 7 agents and 16 parked cars:
 
 https://youtu.be/xMCpVxDpogA
