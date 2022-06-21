@@ -1,6 +1,6 @@
 # Multi-Agent Car Parking using Reinforcement Learning
 
-Thesis by Omar Tanner ([pdf](dissertation.pdf)).
+Thesis ([pdf](dissertation.pdf)).
 
 <br/>
 <p align="center">
