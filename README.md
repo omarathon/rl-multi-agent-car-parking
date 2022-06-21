@@ -1,6 +1,6 @@
 # Multi-Agent Car Parking using Reinforcement Learning
 
-Thesis ([pdf](dissertation.pdf)).
+Dissertation [pdf](dissertation.pdf).
 
 <br/>
 <p align="center">
