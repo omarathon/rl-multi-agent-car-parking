@@ -4,7 +4,7 @@ Dissertation [pdf](dissertation.pdf).
 
 <br/>
 <p align="center">
-  <img src="example.gif" alt="animated" />
+  <img src="environment.png" />
 </p>
 
 
