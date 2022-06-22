@@ -1,10 +1,10 @@
 # Multi-Agent Car Parking using Reinforcement Learning
 
-Dissertation [pdf](dissertation.pdf).
+[[pdf]](dissertation.pdf)
 
 <br/>
-<p align="center">
-  <img src="environment.png" width="100px" />
+<p>
+  <img src="environment.png" width="400px" />
 </p>
 
 
