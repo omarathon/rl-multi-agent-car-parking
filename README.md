@@ -3,7 +3,7 @@
 [[pdf]](dissertation.pdf)
 
 <br/>
-<p>
+<p align="center">
   <img src="environment.png" width="400px" />
 </p>
 
