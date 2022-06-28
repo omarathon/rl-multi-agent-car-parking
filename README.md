@@ -53,3 +53,4 @@ Please use the following Bibtex citation if you wish to cite this work:
       primaryClass={cs.LG}
 }
 ```
+Otherwise, cite the arXiv publication.
