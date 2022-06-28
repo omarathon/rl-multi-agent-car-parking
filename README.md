@@ -38,3 +38,18 @@ Development was done on Windows, with the RL training run on Linux. We have not 
 Below shows an example trained model with 7 agents and 16 parked cars:
 
 https://youtu.be/xMCpVxDpogA
+
+## Citing
+
+Please use the following Bibtex citation if you wish to cite this work:
+
+```bib
+@misc{tanner2022multiagent,
+      title={Multi-Agent Car Parking using Reinforcement Learning}, 
+      author={Omar Tanner},
+      year={2022},
+      eprint={2206.13338},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
