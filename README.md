@@ -36,7 +36,7 @@ https://youtu.be/xMCpVxDpogA
 
 ## Citing
 
-You must cite this work if used.
+One must cite this work if used.
 
 Please use the following Bibtex citation:
 
