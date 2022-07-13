@@ -36,7 +36,9 @@ https://youtu.be/xMCpVxDpogA
 
 ## Citing
 
-Please use the following Bibtex citation if you wish to cite this work:
+You must cite this work if used.
+
+Please use the following Bibtex citation:
 
 ```bib
 @misc{tanner2022multiagent,
