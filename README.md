@@ -34,9 +34,11 @@ Below shows an example trained model with 7 agents and 16 parked cars:
 
 https://youtu.be/xMCpVxDpogA
 
-## Citing
+## License and Citing
 
-One must cite this work if used.
+This work is under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+One must cite the [arXiv paper](https://arxiv.org/abs/2206.13338) if used.
 
 Please use the following Bibtex citation:
 
@@ -50,4 +52,3 @@ Please use the following Bibtex citation:
       primaryClass={cs.LG}
 }
 ```
-Otherwise, cite the arXiv document.
