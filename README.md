@@ -34,7 +34,7 @@ Below shows an example trained model with 7 agents and 16 parked cars:
 
 https://youtu.be/xMCpVxDpogA
 
-## License and Citing
+## License and citing
 
 This work is under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
