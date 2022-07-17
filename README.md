@@ -38,7 +38,7 @@ https://youtu.be/xMCpVxDpogA
 
 This work is under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-Please cite the [arXiv paper](https://arxiv.org/abs/2206.13338) if used, with the following Bibtex citation:
+Please cite the [arXiv paper](https://arxiv.org/abs/2206.13338) if used:
 
 ```bib
 @misc{tanner2022multiagent,
