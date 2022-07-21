@@ -1,6 +1,6 @@
 # Multi-Agent Car Parking using Reinforcement Learning
 
-https://arxiv.org/abs/2206.13338
+https://arxiv.org/abs/2206.13338 (ICUR '22)
 
 <br/>
 <p align="center">
