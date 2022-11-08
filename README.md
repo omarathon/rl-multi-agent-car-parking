@@ -2,12 +2,6 @@
 
 https://arxiv.org/abs/2206.13338 (ICUR '22)
 
-<br/>
-<p align="center">
-  <img src="environment.png" width="400px" />
-</p>
-
-
 ## Directories
 * MultiAgentCarParkingEnvironment - Unity project containing the implementation of the MDP (environment)
 * ppo - scripts related to training PPO and its analysis
