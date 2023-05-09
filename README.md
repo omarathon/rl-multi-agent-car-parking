@@ -44,3 +44,15 @@ Please cite the [arXiv paper](https://arxiv.org/abs/2206.13338) if used:
       primaryClass={cs.LG}
 }
 ```
+
+Alternatively one may cite the [ICUR conference abstract]([url](https://www.icurportal.com/wp-content/uploads/book-of-abstracts-2022.pdf)):
+
+```bib
+@misc{tanner2022multiagent,
+      title={Multi-Agent Car Parking using Reinforcement Learning}, 
+      author={Omar Tanner},
+      year={2022},
+      organization={International Conference of Undergraduate Research},
+      howpublished = {\textsc{url:}~\url{www.icurportal.com/wp-content/uploads/book-of-abstracts-2022.pdf}}
+}
+```
