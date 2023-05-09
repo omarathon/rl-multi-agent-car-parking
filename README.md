@@ -45,7 +45,7 @@ Please cite the [arXiv paper](https://arxiv.org/abs/2206.13338) if used:
 }
 ```
 
-Alternatively one may cite the [ICUR conference abstract](https://www.icurportal.com/wp-content/uploads/book-of-abstracts-2022.pdf):
+Alternatively cite the [ICUR conference abstract](https://www.icurportal.com/wp-content/uploads/book-of-abstracts-2022.pdf):
 
 ```bib
 @misc{tanner2022multiagent,
