@@ -52,7 +52,7 @@ Alternatively cite the [ICUR conference abstract](https://www.icurportal.com/wp-
       title={Multi-Agent Car Parking using Reinforcement Learning}, 
       author={Omar Tanner},
       year={2022},
-      organization={International Conference of Undergraduate Research},
+      organization={ICUR},
       howpublished = {\textsc{url:}~\url{www.icurportal.com/wp-content/uploads/book-of-abstracts-2022.pdf}}
 }
 ```
