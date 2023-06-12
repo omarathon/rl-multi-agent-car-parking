@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2206.13338 (ICUR '22)
 
-[Short presentation slides]([url](https://docs.google.com/presentation/d/1Vnlo2LLLWSN4ufUHAQ00UmfvFiOcVKABnSo0NSN628Q/edit?usp=sharing))
+[Short presentation slides](https://docs.google.com/presentation/d/1Vnlo2LLLWSN4ufUHAQ00UmfvFiOcVKABnSo0NSN628Q/edit?usp=sharing)
 
 ## Directories
 * MultiAgentCarParkingEnvironment - Unity project containing the implementation of the MDP (environment)
